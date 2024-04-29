@@ -1,8 +1,8 @@
 # Curiosidades sobre Tecnologia
-## Bem vindo(a) ao meu Primeiro projeto !!
-### Neste projeto é criado um site inicial (Somente a primeira página) que aborda sobre a História do Mascote Android
+## Welcome to my first project !!
+### In this project, a simple website (only featuring the first page) has been created, which addresses the history of how the Android mascot came about.
 
-Linguagens usadas:
+Languages used:
 + HTML
 + CSS
   
